@@ -1,7 +1,7 @@
-# Day 01: Redwan-Gateway v1.0 — Industrial IoT Baseboard
+# Day 01: ESP32-Gateway v1.0 — Industrial IoT Baseboard
 
 ## 📌 Project Overview
-The **Redwan-Gateway** is a high-performance, industrial-grade IoT gateway designed to bridge the gap between low-level hardware sensors and high-level backend systems[cite: 75]. Developed as the "Hardware Root of Trust" for the **#30DaysOfEngineering** challenge, this PCB demonstrates professional-grade standards in circuit integrity and manufacturing readiness.
+The **ESP32-Gateway** is a high-performance, industrial-grade IoT gateway designed to bridge the gap between low-level hardware sensors and high-level backend systems. Developed as the "Hardware Root of Trust" for the **#30DaysOfEngineering** challenge, this PCB demonstrates professional-grade standards in circuit integrity and manufacturing readiness.
 
 As an **EasyEDA Campus Promotion Ambassador**, I have utilized **EasyEDA Pro** to ensure this design meets industry standards for graduation projects and hardware innovation.
 
